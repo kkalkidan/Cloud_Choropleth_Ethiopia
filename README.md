@@ -21,7 +21,6 @@ These choropleth visualizes the monthly mean cloud cover percentage in hue color
 
 ## Landsat-7
 
-![landsat7](Landsat7/landsat7_coverage_1999.png)
 ![landsat7](Landsat7/landsat7_coverage_2000.png)
 ![landsat7](Landsat7/landsat7_coverage_2005.png)
 ![landsat7](Landsat7/landsat7_coverage_2006.png)

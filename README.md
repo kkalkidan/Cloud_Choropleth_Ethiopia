@@ -14,10 +14,10 @@ These choropleth visualizes the monthly mean cloud cover percentage in hue color
 
 ## Landsat-6
 
-![landsat6](Cloud_Choropleth_Ethiopia/Landsat6/landsat_coverage_2008.png)
-![landsat6](Cloud_Choropleth_Ethiopia/Landsat6/landsat_coverage_2009.png)
-![landsat6](Cloud_Choropleth_Ethiopia/Landsat6/landsat_coverage_2010.png)
-![landsat6](Cloud_Choropleth_Ethiopia/Landsat6/landsat_coverage_2011.png)
+![landsat6](Landsat6/landsat_coverage_2008.png)
+![landsat6](Landsat6/landsat_coverage_2009.png)
+![landsat6](Landsat6/landsat_coverage_2010.png)
+![landsat6](Landsat6/landsat_coverage_2011.png)
 
 ## Landsat-7
 
@@ -30,10 +30,10 @@ These choropleth visualizes the monthly mean cloud cover percentage in hue color
 
 ## Landsat-8
 
-![landsat8]Landsat8/landsat_coverage_2013.png)
-![landsat8]Landsat8/landsat_coverage_2014.png)
-![landsat8]Landsat8/landsat_coverage_2015.png)
-![landsat8]Landsat8/landsat_coverage_2016.png)
+![landsat8](Landsat8/landsat_coverage_2013.png)
+![landsat8](Landsat8/landsat_coverage_2014.png)
+![landsat8](Landsat8/landsat_coverage_2015.png)
+![landsat8](Landsat8/landsat_coverage_2016.png)
 
 
 > For more images, go the the image folder
